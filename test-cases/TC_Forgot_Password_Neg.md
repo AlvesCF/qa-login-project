@@ -1,4 +1,4 @@
-3 TC - Recuperação de Senha com e-mail inválido
+# TC - Recuperação de Senha com e-mail inválido
 
 ## Passos
 1. Acessar o site
