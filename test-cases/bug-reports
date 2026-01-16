@@ -11,3 +11,12 @@ Ao execultar os passos, o sistema não carrega e não redireciona para a página
 
 ## Resultado esperado
 Ao clicar em "ENTRAR", o sistema deve redirecionar para a página inicial. 
+
+## Ambiente
+- Navegador: Chrome
+- Dispositivo: Desktop
+- Sistema operacional: windows 10
+- Ambiente: Teste
+
+## Evidências
+- Tela permanece em carregamento inifinito após clique em "ENTRAR"
