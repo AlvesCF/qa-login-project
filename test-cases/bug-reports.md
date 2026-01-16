@@ -1,3 +1,5 @@
+Relacionado ao TC: TC_Login.md
+
 # Erro no redirecionamento ao clicar em "ENTRAR"
 
 ## Passos para reproduzir
