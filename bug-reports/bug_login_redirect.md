@@ -22,3 +22,9 @@ Ao clicar em "ENTRAR", o sistema deve redirecionar para a página inicial.
 
 ## Evidências
 - Tela permanece em carregamento inifinito após clique em "ENTRAR"
+
+## Severidade
+Alta
+
+## Prioridade
+Alta
